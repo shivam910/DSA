@@ -1,3 +1,6 @@
+//LeetCode Two Sum problem 
+// Given a target value find two numbers from given element whose sum is equal to target
+
 class Solution{
       public:
         vector<int> twoSum(vector<int>& nums, int target) {
